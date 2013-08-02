@@ -1,0 +1,52 @@
+set size nosquare 1,1.75
+set xlabel "B, mT" font "Helvetica, 30" offset 0, -2
+set xtics 336, 0.5, 337.5 in mirror offset 0, -1.5 font "Helvetica, 30" 
+set grid
+set ytics in mirror font "Helvetica, 30"
+set yrange [-8250:2750]
+set xrange [335.85:337.5]
+set format y ''
+set term postscript eps
+set output 'g1.eps'
+
+#Add arrows to point T1 and Ky6 lines
+#Draw line for significant test
+set arrow from 336.35,2100 to 336.93,2100 nohead lw 1.5
+set arrow from 336.35,2100 to 336.35,1600 nohead lw 1.5
+set arrow from 336.93,2100 to 336.93,1600 nohead lw 1.5
+set arrow from 336.49,2100 to 336.49,1600 nohead lw 1.5
+set arrow from 336.64,2100 to 336.64,1600 nohead lw 1.5
+set arrow from 336.79,2100 to 336.79,1600 nohead lw 1.5
+set label 'T1' at 336.64,2250 center font "Helvetica, 30"
+
+set arrow from 336.58,-8000 to 336.71,-8000 nohead lw 1.5
+set arrow from 336.58,-8000 to 336.58,-7600 nohead lw 1.5
+set arrow from 336.71,-8000 to 336.71,-7600 nohead lw 1.5
+set label 'Ky6' at 336.75,-8000 font "Helvetica, 30"
+
+#labels "x12.5"
+set label 'x10'   at 336,-700 font "Helvetica, 30"
+set label 'x12.5' at 336,-2200 font "Helvetica, 30"
+set label 'x12.5' at 336,-3900 font "Helvetica, 30"
+set label 'x12.5' at 336,-5400 font "Helvetica, 30"
+#labels "tempareture"
+set encoding iso_8859_1
+set label "< 600 \260C" at 337.2,0 font "Helvetica, 30"
+set label "  700 \260C"   at 337.2,-1400 font "Helvetica, 30"
+set label "  800 \260C"   at 337.2,-3100 font "Helvetica, 30"
+set label "  900 \260C"   at 337.2,-4700 font "Helvetica, 30"
+set label " 1000 \260C"  at 337.2,-5900 font "Helvetica, 30"
+
+plot "g1.dat" using 1:2 lt -1 title '', \
+"g1.dat" using 3:4 lt -1 title '' with lines, \
+"g1.dat" using 5:6 lt -1 title '' with lines, \
+"g1.dat" using 7:8 lt -1 title '' with lines, \
+"g1.dat" using 9:10 lt -1 title '' with lines, \
+"g1.dat" using 11:12 lt -1 title '' with lines, \
+"g1.dat" using 13:14 lt -1 title '' with lines, \
+"g1.dat" using 15:16 lt -1 title '' with lines, \
+"g1.dat" using 17:18 lt -1 title '' with lines
+
+
+set output
+quit

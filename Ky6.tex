@@ -52,9 +52,9 @@
 %% use the graphics package for simple commands
 %% \usepackage{graphics}
 %% or use the graphicx package for more complicated commands
-%% \usepackage{graphicx}
+\usepackage{graphicx}
 %% or use the epsfig package if you prefer to use the old commands
-%% \usepackage{epsfig}
+\usepackage{epsfig}
 
 %% The amssymb package provides various useful mathematical symbols
 \usepackage{amssymb}
@@ -140,7 +140,7 @@
 \address{}
 
 \begin{abstract}
-  \input{abstract-en.tex}
+  \input{sections/s1-abstract-en.tex}
 \end{abstract}
 
 
@@ -157,10 +157,10 @@
 \end{frontmatter}
 
 %% main text
-\section{Introduction}\input{introductionen.tex} 
+\section{Introduction}\input{sections/s2-introduction-en.tex} 
 %% \label{}
-\section{Experimental}\input{experimentalen.tex} 
-\section{Results and discussion}
+\section{Experimental}\input{sections/s3-experimental-en.tex} 
+\section{Results and discussion}\input{sections/s4-res&disc.tex}
 %% \label{}
 
 %% The Appendices part is started with the command \appendix;
@@ -228,7 +228,7 @@
 \begin{thebibliography}{50}
 
 %% \bibitem must have one of the following forms:
-    \input{refs.tex}
+    \input{sections/s5-refs.tex}
     %\bibitem{brun1} F. Bruneval and G. Roma, Phys. Rev. B 83, 144116 (2011)
 %%   \bibitem[Jones et al.(1990)Jones, Baker, and Williams]{key}...
 %%   \bibitem[Jones et al., 1990]{key}...

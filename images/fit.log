@@ -1,0 +1,44 @@
+
+
+*******************************************************************************
+Fri Aug 02 13:13:24 2013
+
+
+FIT:    data read from "g2.dat" using 1:2
+        format = x:z
+	y range restricted to [1.99900 : 2.00700]
+        #datapoints = 1750
+        residuals are weighted equally (unit weight)
+
+function used for fitting: off(y)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.54396e+008      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+offset          = 1
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 1.5241e+008
+rel. change during last iteration : -4.24941e-009
+
+degrees of freedom    (FIT_NDF)                        : 1749
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 295.197
+variance of residuals (reduced chisquare) = WSSR/ndf   : 87141.2
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+offset          = 34.6851          +/- 7.057        (20.34%)
+
+
+correlation matrix of the fit parameters:
+
+               offset 
+offset          1.000 

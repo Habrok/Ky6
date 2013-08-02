@@ -1,0 +1,50 @@
+set terminal postscript enhanced eps
+#set size nosquare 1,1
+set xlabel "B, mT" font "Helvetica, 30" offset 0, -2
+set xtics 329, 1, 332 in mirror offset 0, -1.5 font "Helvetica, 30" 
+set grid
+set ytics in mirror font "Helvetica, 30"
+set y2range [5:320]
+set xrange [329:332]
+set output 'g3.eps'
+set style line 1 lc rgb 'black' pt 5 
+set yrange [100:-10]
+set encoding iso_8859_1
+set ylabel " {/Symbol Q} " font "Helvetica, 30"
+set ytics in font "Helvetica, 30"
+
+#g3a.dat cols  1..38 = x,y HFL from 0 to 90 degrees with step 5 degree
+#g3a.dat cols 39..76 = x,y HFH from 0 to 90 degrees with step 5 degree
+#g3b.dat col2 = angle from -10 t0 320 degree, col1, col3 and col4 = g
+#g3b.dat col5..col7 = HFL, col8..col10 = HFH
+plot "g3a.dat"	using ($1):($2)		axes x1y2	title '' with lines, \
+"g3a.dat"	using ($5):($6 + 30)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($9):($10 + 60)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($13):($14 + 90)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($17):($18 + 120)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($21):($22 + 150)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($25):($26 + 180)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($29):($30 + 210)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($33):($34 + 240)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($37):($38 + 270)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($39):($40 + 20)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($43):($44 + 50)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($47):($48 + 80)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($51):($52 + 110)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($55):($56 + 140)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($59):($60 + 170)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($63):($64 + 200)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($67):($68 + 230)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($71):($72 + 260)	axes x1y2	title '' with lines, \
+"g3a.dat"	using ($75):($76 + 290)	axes x1y2	title '' with lines, \
+"g3b.dat"	using ($1):($2)		axes x1y1	title '' with linespoints ls 1, \
+"g3b.dat"	using ($3):($2)		axes x1y1	title '' with linespoints ls 1, \
+"g3b.dat"	using ($4):($2)		axes x1y1	title '' with linespoints ls 1, \
+"g3b.dat"	using ($5):($2)		axes x1y1	title '' with points ls 1, \
+"g3b.dat"	using ($6):($2)		axes x1y1	title '' with points ls 1, \
+"g3b.dat"	using ($7):($2)		axes x1y1	title '' with points ls 1, \
+"g3b.dat"	using ($8):($2)		axes x1y1	title '' with points ls 1, \
+"g3b.dat"	using ($9):($2)		axes x1y1	title '' with points ls 1, \
+"g3b.dat"	using ($10):($2)	axes x1y1	title '' with points ls 1
+set output
+quit

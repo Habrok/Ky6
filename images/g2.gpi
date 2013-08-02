@@ -1,0 +1,27 @@
+set terminal postscript enhanced eps
+set size nosquare 1,1.75
+set xlabel "g-factor" font "Helvetica, 30" offset 0, -2
+set xtics 1.998, 0.002, 2.006 in mirror offset 0, -1.5 font "Helvetica, 30" 
+set grid
+set ytics in mirror font "Helvetica, 30"
+set y2range [-5250:750]
+set xrange [2.007:1.999]
+set output 'g2.eps'
+set style line 1 lc rgb 'black' pt 6 ps 2
+set yrange [100:-15]
+set encoding iso_8859_1
+set ylabel " {/Symbol Q} " font "Helvetica, 30"
+set ytics in font "Helvetica, 30"
+
+plot "g2.dat"	using ($1):($2)		 axes x1y2	title '' with lines, \
+"g2.dat"	using ($3):($4 - 750)	 axes x1y2	title '' with lines, \
+"g2.dat" 	using ($5):($6 - 1500)	 axes x1y2	title '' with lines, \
+"g2.dat" 	using ($7):($8 - 2250)   axes x1y2	title '' with lines, \
+"g2.dat" 	using ($9):($10 - 3000)  axes x1y2	title '' with lines, \
+"g2.dat" 	using ($11):($12 - 3750) axes x1y2	title '' with lines, \
+"g2.dat" 	using ($13):($14 - 4500) axes x1y2	title '' with lines, \
+"g2t.dat"	using 1:2		 axes x1y1	title '' with points ls 1, \
+"g2t.dat"	using 3:2		 axes x1y1	title '' with points ls 1, \
+"g2t.dat"	using 4:2		 axes x1y1	title '' with points ls 1
+set output
+quit
