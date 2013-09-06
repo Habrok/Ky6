@@ -37,7 +37,6 @@
 \documentclass[final,authoryear,3p,times,twocolumn]{elsarticle}
 %% \documentclass[final,authoryear,5p,times]{elsarticle}
 %% \documentclass[final,authoryear,5p,times,twocolumn]{elsarticle}
-
 %%-------------------------------------------------------------------------------
 %add ukrainian locale
 \usepackage[ukrainian,russian,english]{babel}
@@ -140,7 +139,7 @@
 \address{}
 
 \begin{abstract}
-  \input{sections/s1-abstract-en.tex}
+  \input{sections/s1-abstract.tex}
 \end{abstract}
 
 
@@ -157,10 +156,11 @@
 \end{frontmatter}
 
 %% main text
-\section{Introduction}\input{sections/s2-introduction-en.tex} 
+\section{Introduction}\input{sections/s2-introduction.tex} 
 %% \label{}
-\section{Experimental}\input{sections/s3-experimental-en.tex} 
+\section{Experimental}\input{sections/s3-experimental.tex} 
 \section{Results and discussion}\input{sections/s4-res&disc.tex}
+\section{Conclusion}\input{sections/s5-conclusion.tex}
 %% \label{}
 
 %% The Appendices part is started with the command \appendix;
@@ -228,7 +228,7 @@
 \begin{thebibliography}{50}
 
 %% \bibitem must have one of the following forms:
-    \input{sections/s5-refs.tex}
+    \input{sections/s6-refs.tex}
     %\bibitem{brun1} F. Bruneval and G. Roma, Phys. Rev. B 83, 144116 (2011)
 %%   \bibitem[Jones et al.(1990)Jones, Baker, and Williams]{key}...
 %%   \bibitem[Jones et al., 1990]{key}...

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=latex 2013.7.11)  6 SEP 2013 17:14
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=latex 2013.7.11)  27 AUG 2013 14:48
 entering extended mode
 **Ky6.tex
 
@@ -933,54 +933,54 @@ See the natbib package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.46 ...mand\NAT@force@numbers{}\NAT@force@numbers
+l.34 ...mand\NAT@force@numbers{}\NAT@force@numbers
                                                   
 Check the bibliography entries for non-compliant syntax,
 or select author-year BibTeX style, e.g. plainnat
 
 )
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 97.
-LaTeX Font Info:    Try loading font information for OML+txmi on input line 97.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 98.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 98.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\omltxmi.fd"
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 97.
-LaTeX Font Info:    Try loading font information for OMS+txsy on input line 97.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 98.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 98.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\omstxsy.fd"
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 97.
-LaTeX Font Info:    Try loading font information for OMX+txex on input line 97.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 98.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 98.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\omxtxex.fd"
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 97.
-LaTeX Font Info:    Try loading font information for U+txexa on input line 97.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 98.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 98.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\utxexa.fd"
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Try loading font information for T2A+txr on input line 97.
-LaTeX Font Info:    No file T2Atxr.fd. on input line 97.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Try loading font information for T2A+txr on input line 98.
+LaTeX Font Info:    No file T2Atxr.fd. on input line 98.
 
 
 LaTeX Font Warning: Font shape `T2A/txr/m/n' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 97.
+(Font)              using `T2A/cmr/m/n' instead on input line 98.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: dvips
@@ -1018,30 +1018,32 @@ LaTeX Font Warning: Font shape `T2A/txr/m/n' undefined
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \celsius on input line 97.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 97.
+LaTeX Info: Redefining \celsius on input line 98.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 98.
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 97.
-Package gensymb Info: Using \Omega for \ohm on input line 97.
+LaTeX Info: Redefining \ohm on input line 98.
+Package gensymb Info: Using \Omega for \ohm on input line 98.
 
 Package gensymb Warning: Not defining \micro.
 
 
 LaTeX Font Warning: Font shape `T2A/txr/bx/n' undefined
-(Font)              using `T2A/txr/m/n' instead on input line 141.
+(Font)              using `T2A/txr/m/n' instead on input line 142.
 
 
 ("C:\documents and settings\roman\dropbox\dropbox\work\my_articles\2013_ky6\sec
-tions/s1-abstract.tex"
+tions/s1-abstract-en.tex"
 LaTeX Font Info:    Try loading font information for OT1+txr on input line 1.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\ot1txr.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\ot1txr.fd"
 File: ot1txr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Try loading font information for U+txmia on input line 1.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\utxmia.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\utxmia.fd"
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 1.
@@ -1061,229 +1063,25 @@ File: utxsyc.fd 2000/12/15 v3.1
 ))
 
 LaTeX Font Warning: Font shape `T2A/txr/m/it' undefined
-(Font)              using `T2A/txr/m/n' instead on input line 146.
+(Font)              using `T2A/txr/m/n' instead on input line 147.
 
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 156
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 157
 .
 ("C:\Program Files\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.fd"
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 ("C:\documents and settings\roman\dropbox\dropbox\work\my_articles\2013_ky6\sec
-tions/s2-introduction.tex")
-Underfull \hbox (badness 10000) in paragraph at lines 1--161
-[]\T2A/txr/bx/n/10 З-помiж рiзноманiття напiвпровiдникових
+tions/s2-introduction-en.tex")
+("C:\documents and settings\roman\dropbox\dropbox\work\my_articles\2013_ky6\sec
+tions/s3-experimental-en.tex")
+Underfull \hbox (badness 4096) in paragraph at lines 1--163
+[]\T2A/txr/bx/n/10 X-band spec-trom-e-ters Ra-diopan SE/X and
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 матерiалiв, карбiд кремнiю (SiC) посiда№
- []
-
-
-Underfull \hbox (badness 4699) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 особливе мiсце, що визнача№ться чудовими
- []
-
-
-Underfull \hbox (badness 6364) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 властивостями даного матерiалу. Значна
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 температурна, радiацiйна та хiмiчна
- []
-
-
-Underfull \hbox (badness 4120) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 стiйкiсть робилять SiC цiкавим матерiалом
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 для виготовлення приладiв, якi можуть
- []
-
-
-Underfull \hbox (badness 3492) in paragraph at lines 1--161
-[]\T2A/txr/bx/n/10 Серед понад двухсот полiтипiв, кубiчний
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 3C-SiC характеризу№ться найкращими
- []
-
-
-Underfull \hbox (badness 1448) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 електронними та механiчними властивостями
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 вирощування гексагональних кристалiв,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 саме вони набули широкого промислового
- []
-
-
-Underfull \hbox (badness 3482) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 досягнення у  алузi технологiчних процесiв
- []
-
-
-Underfull \hbox (badness 7397) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 вирощування кубiчних зразкiв, насамперед
- []
-
-
-Underfull \hbox (badness 6445) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 тонких плiвок [[]], повертають iнтерес до
- []
-
-
-Underfull \hbox (badness 2393) in paragraph at lines 1--161
-[]\T2A/txr/bx/n/10 Опромiнення кристала частинками рiзного
- []
-
-
-Underfull \hbox (badness 1158) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 роду та енергiЁ призводить до пошкодження
- []
-
-
-Underfull \hbox (badness 5431) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 та фiзичнi властивостi кристалу. Таким
- []
-
-
-Underfull \hbox (badness 2913) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 SiC, iнформацiя про власитивостi дефектiв,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--161
-[]\T2A/txr/bx/n/10 Вiдомо, що основними дефектами у
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 щойноопромiнених кристалах 3C-SiC №
- []
-
-
-Underfull \hbox (badness 5548) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 вiд'№мнозаряджена вакансiя кремнiю [[]] та
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 спостерiгались у кристалах, опромiнених
- []
-
-
-Underfull \hbox (badness 1472) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 нейтронами, тощо, мають спiн S = 3/2 та
- []
-
-
-Underfull \hbox (badness 2698) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 же час, дивакансiя спостерiга№ться лише у
- []
-
-
-Underfull \hbox (badness 3209) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 кристалу, при температурi Т$[]$ = 900 K
- []
-
-
-Underfull \hbox (badness 1478) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 i майже повнiстю вiдпалються. У той же
- []
-
-
-Underfull \hbox (badness 3780) in paragraph at lines 1--161
-\T2A/txr/bx/n/10 названому Ку6. Дана робота присвячена
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1
+[1
 
 
 ]
-("C:\documents and settings\roman\dropbox\dropbox\work\my_articles\2013_ky6\sec
-tions/s3-experimental.tex")
-Underfull \hbox (badness 10000) in paragraph at lines 1--162
-\T2A/txr/bx/n/10 модифiкацiЁ (3C-SiC) n-типу провiдностi.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--162
-\T2A/txr/bx/n/10 Зразки вирощувались з використанням
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--162
-\T2A/txr/bx/n/10 методу паро-фазового осадження, шляхом
- []
-
-
-Underfull \hbox (badness 3260) in paragraph at lines 1--162
-\T2A/txr/bx/n/10 Т = 1700 K у атмосферi водню та його
- []
-
-
-Underfull \hbox (badness 1721) in paragraph at lines 1--162
-\T2A/txr/bx/n/10 Зразки не легувались, концентрацiя донорiв
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--162
-\T2A/txr/bx/n/10 азоту, не спецiально утворених пiд час
- []
-
-
-Underfull \hbox (badness 1205) in paragraph at lines 1--162
-\T2A/txr/bx/n/10 4 х 3 х 0.7 мм. Опромiнення нейтронами
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--162
-\T2A/txr/bx/n/10 температурi, доза опромiнення складала
- []
-
-
-Underfull \hbox (badness 3525) in paragraph at lines 1--162
-\T2A/txr/bx/n/10 нейтронiв у SiC, розподiл дефектiв можна
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 1--162
-[]\T2A/txr/bx/n/10 Спектри ЕПР вимiрювались за допомогою
- []
-
-
-Underfull \hbox (badness 1603) in paragraph at lines 1--162
-\T2A/txr/bx/n/10 спектрометрiв Х-дiапазону при температурах
- []
-
-
-Underfull \hbox (badness 1092) in paragraph at lines 1--162
-\T2A/txr/bx/n/10 магнiтного поля у площинах ($\OT1/txr/m/n/10 1[]0$\T2A/txr/bx/
-n/10 ) та (111).
- []
-
-
-Underfull \hbox (badness 2005) in paragraph at lines 1--162
-\T2A/txr/bx/n/10 витримки 5 хвилин. Термопара дозволяла
- []
-
-
 ("C:\documents and settings\roman\dropbox\dropbox\work\my_articles\2013_ky6\sec
 tions/s4-res&disc.tex"
 File: images/g1.eps Graphic file (type eps)
@@ -1295,368 +1093,59 @@ File: images/g3.eps Graphic file (type eps)
 File: images/g4.eps Graphic file (type eps)
 
 <images/g4.eps>)
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-[]\T2A/txr/bx/n/10 Як уже згадувалось, домiнуючим
+Underfull \hbox (badness 5331) in paragraph at lines 1--165
+\T2A/txr/bx/n/10 у 3C-SiC, опромiнених частинкими високоЁ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 парамагнiтним дефектом зi значенням
+Underfull \hbox (badness 1881) in paragraph at lines 1--165
+\T2A/txr/bx/n/10 Спостереження iнших парамагнiтних центрiв
  []
 
 
-Underfull \hbox (badness 5105) in paragraph at lines 1--163
-[] \T2A/txr/bx/n/10 поблизу 2 у кристалах 3C-SiC,
+Underfull \hbox (badness 7595) in paragraph at lines 1--165
+\T2A/txr/bx/n/10 у дiапазонi g-факторiв  2 ускладню№ться
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 iнших парамагнiтних дефектiв у даному
+Underfull \hbox (badness 10000) in paragraph at lines 1--165
+\T2A/txr/bx/n/10 за рахунок високоЁ iнтентивностi лiнiй
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 високоЁ iнтентивностi лiнiй вищезгаданого
+Underfull \hbox (badness 1448) in paragraph at lines 1--165
+\T2A/txr/bx/n/10 спектра вакансiЁ кремнiя. Проте, пiд дi№ю
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-
- []
-
-
-Underfull \hbox (badness 3701) in paragraph at lines 1--163
-\T2A/txr/m/n/9 Рис. 1. Кiнетика вiдпалу центра V$[]$$[]$ та
- []
-
-
-Underfull \hbox (badness 4621) in paragraph at lines 1--163
-\T2A/txr/m/n/9 спостереження лiнiй ЕПР нового центра Ку6.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 опромiнених електронами та нейтронами,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 коли у електронноопромiнених кристалах
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 спостерiга№ться 3 стадiЁ вiдпалу при
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 утворених унаслiдок опромiнення рiзними
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 нейтронами, свiдчить про вiдмiнностi у
- []
-
-
-Underfull \hbox (badness 1769) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 спектр центра Т1 не спостерiга№ться, проте
- []
-
-
-Underfull \hbox (badness 2990) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 при температурах нижчих за Т = 140 К
- []
-
-
-Underfull \hbox (badness 3492) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 спостерiгаються лiнiЁ, якi належать новому
- []
-
-
-Underfull \hbox (badness 4391) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 лiнiй ЕПР даного центра (Рис. 2) вказу№
- []
-
-
-Underfull \hbox (badness 4899) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 на його безпосереднiй зв'язок з дефектом
- []
-
-
-Underfull \hbox (badness 1057) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 з ефективним спiном S = 1/2. Параметри
- []
-
-
-Underfull \hbox (badness 1168) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 з кутовоЁ залежностi становлять, вiдповiдно,
- []
-
-
-Underfull \hbox (badness 4765) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 напрямок головноЁ осi [] вiдповiда№
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 лiнiй вiд орi№нтацiЁ магнiтного поля, з
- []
-
-
-Underfull \hbox (badness 4084) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 урахуванням цих параметрiв, свiдчить про
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-
- []
-
-
-Underfull \hbox (badness 1460) in paragraph at lines 1--163
-\T2A/txr/m/n/9 напрямкам 0 $[]$C $\OMS/txsy/m/n/9 $ \T2A/txr/m/n/9 <001> та 90
- $[]$C $\OMS/txsy/m/n/9 $ \T2A/txr/m/n/9 <110>,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 спектра ЕПР центра Ку6 спостерiгаються
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/m/n/9 позначено теоретично змодельованi положення
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-[]\T2A/txr/bx/n/10 Iнтенсивнiсть лiнiй НТВ виявля№ться
- []
-
-
-Underfull \hbox (badness 7238) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 достатньою для аналiзу природи ядер, з
- []
-
-
-Underfull \hbox (badness 6141) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 з трьома ядрами кремнiю $[]$Si, природна
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 розповсюдженiсть яких склада№ вiдповiдно
- []
-
-
-Underfull \hbox (badness 1642) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 4.2%. Таким чином, можна стверджувати,
- []
-
-
-Underfull \hbox (badness 6675) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 що спiнова густина неспарених електронiв
- []
-
-
-Underfull \hbox (badness 2261) in paragraph at lines 1--163
-[]\T2A/txr/bx/n/10 Факт участi у НТВ лише трьох iзотопiв
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 кремнiю вказу№ на комплексну природу
- []
-
-
-Underfull \hbox (badness 3826) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 дефекту i присутнiсть у одному iз вузлiв
- []
-
-
-Underfull \hbox (badness 1430) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 Одним iз ймовiрних пояснень даного факту
- []
-
-
-Underfull \hbox (badness 2644) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 може бути присутнiсть у складi комплексу
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 атома вуглецю, магнiтний iзотоп якого
- []
-
-
-Underfull \hbox (badness 3312) in paragraph at lines 1--163
-[]$\T2A/txr/bx/n/10 С ма№ природну розповсюдженнiсть лише
- []
-
-
-Underfull \hbox (badness 7888) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 1.2%, внаслiдок чого роздiльноЁ здатностi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 пiд рунтя для побудови впевненоЁ моделi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 спостереженого центра. Насамперед, з
+Underfull \hbox (badness 1360) in paragraph at lines 1--165
+\T2A/txr/bx/n/10 термiчного вiдпалу, у кристалi вiдбуваються
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 теоретичних робiт [[]; []; []; []] вiдомо, що
+Underfull \hbox (badness 1389) in paragraph at lines 1--165
+\T2A/txr/bx/n/10 при Т$[]$ = 800 $[]$C призводить до вiдпалу
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 для перетворенння вакансiЁ кремнiя V$[]$ на
+Underfull \hbox (badness 5245) in paragraph at lines 1--165
+\T2A/txr/bx/n/10 вищезгаданих вакансiй. Унаслiдок чтого,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 комплексний дефект вакансiя вуглецю -
+Underfull \hbox (badness 2529) in paragraph at lines 1--165
+\T2A/txr/bx/n/10 спостереження нового центра, назвемо його
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 атомам кремнiю, для того, щоб анiлiгювати
- []
-
-
-Underfull \hbox (badness 1194) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 з вакансi№ю, унаслiдок чого такий процес №
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-[]\T2A/txr/bx/n/10 Для випадку зразкiв n-типу характернi
- []
-
-
-Underfull \hbox (badness 1112) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 стадiЁ вiдпалу V$[]$$[]$ у кристалах опромiнених
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 енергiЁ наведеного вище перетворення, у
- []
-
-
-Underfull \hbox (badness 2726) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 Проте у кубiчних кристалах даний дефект
- []
-
-
-Underfull \hbox (badness 3407) in paragraph at lines 1--163
-[]\T2A/txr/bx/n/10 Теотеричнi розрахунки енергетични рiвнiв
- []
-
-
-Underfull \hbox (badness 2941) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 А. Маттаушем [[]; []] свiдчать про те, що
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 для положення рiвня Фермi, при якому
- []
-
-
-Underfull \hbox (badness 4872) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 зарядовий стан комплексу [V$[]$C$[]$] повинен
- []
-
-
-Underfull \hbox (badness 5446) in paragraph at lines 1--163
-\T2A/txr/bx/n/10 4 eV, що унеможливлю№ його при даних
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--163
-
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 ("C:\documents and settings\roman\dropbox\dropbox\work\my_articles\2013_ky6\sec
-tions/s5-conclusion.tex")
-Underfull \hbox (badness 10000) in paragraph at lines 1--165
-[]\T2A/txr/bx/n/10 У данiй роботi проведено дослiдження
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--165
-\T2A/txr/bx/n/10 кристалiв 3C-SiC n-типу, опромiнених
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--165
-\T2A/txr/bx/n/10 реакторними нейтронами, спостережено та
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--165
-\T2A/txr/bx/n/10 результатiв з теоретичними розрахунками
- []
-
-
-Underfull \hbox (badness 1953) in paragraph at lines 1--165
-\T2A/txr/bx/n/10 даного дефекту та iнтерпретувати його, як
- []
-
-
-("C:\documents and settings\roman\dropbox\dropbox\work\my_articles\2013_ky6\sec
-tions/s6-refs.tex") [4] [5
+tions/s5-refs.tex") [3
 
 ]
 ("C:\documents and settings\roman\dropbox\dropbox\work\my_articles\2013_ky6\Ky6
@@ -1666,12 +1155,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 3914 strings out of 493922
- 47841 string characters out of 3147251
- 111198 words of memory out of 3000000
- 7076 multiletter control sequences out of 15000+200000
+ 3899 strings out of 493922
+ 47511 string characters out of 3147251
+ 105135 words of memory out of 3000000
+ 7064 multiletter control sequences out of 15000+200000
  37297 words of font info for 105 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 32i,7n,34p,1753b,285s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 32i,7n,34p,1197b,221s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Ky6.dvi (5 pages, 28968 bytes).
+Output written on Ky6.dvi (3 pages, 10916 bytes).
